@@ -13,7 +13,7 @@ The project provides four interfaces for interaction with the oracle contract:
 
 ## Running the project
 
-### Project
+### Project - test
 
 Run the following commands from the root of the repository.
 
